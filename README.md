@@ -51,8 +51,8 @@
           <!-- second row -->
           <picture>
             <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nodejs%2Csqlite%2Cmysql&theme=dark" />
-            <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://skillicons.dev/icons?i=nodejs%2Csqlite%2Cmysql&theme=light" />
-            <img src="https://skillicons.dev/icons?i=nodejs%sqlite%2Cmysql%2Cmysql&theme=light" alt="skills - 2" />
+            <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://skillicons.dev/icons?i=nodejs%2Csqlite%2Cmysql&%2Clatextheme=light" />
+            <img src="https://skillicons.dev/icons?i=nodejs%sqlite%2Cmysql%2Cmysql%2Clatex&theme=light" alt="skills - 2" />
         </picture>
 
   </a>
