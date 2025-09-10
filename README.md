@@ -11,47 +11,55 @@
 <br />
 <!-- about me -->
 <p align="center">
-  Hi, I'm Sanidhya Kumar Verma, Web Developer/Coder 💻,  Learner 👨‍💻 &  gamer 🦸‍♂️ from India 🇮🇳.
+  I'm George Mastro. An Engineering Student and a Developer 💻 based on Greece.
   <br />
   <br />
-  🎓 Currently a high school student.
+  🎓 Studying in University of Papel.
   <br />
-  💻 I love to learn new technologies and frameworks.
+  <img width="408" height="408" alt="image" src="https://github.com/user-attachments/assets/98b0eabd-580d-4029-b613-1f5dd5f9e48d" /> I enjoy learning and buiding new and exciting things
   <br />
-  🧑‍💼 I’m currently a freelancer working as a Next.js developer.
+  <img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/0ac6707a-bb2d-4c2b-9542-f559e8975795" /> Trying to make my dreams come true
   <br />
 </p>
 
 <!-- social handles -->
 <div align="center"> 
-<!-- youtube -->
-  <a href="https://www.youtube.com/@OPGAMER." target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <!-- twitter -->
-  <a href="https://twitter.com/technicalshubam" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" target="_blank"></a> 
+  <a href="https://x.com/geomasdev_biz" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" target="_blank"></a> 
   <!-- gmail -->
-  <a href="mailto:sanidhya.verma12345@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="mailto:geomastrobiz@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <!-- linkedin -->
-  <a href="https://www.linkedin.com/in/sanidhyy" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/georgemastrobiz/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+    <!-- gitlab -->
+  <a href="https://gitlab.com/geomastrodev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=gitlab&logoColor=white" target="_blank"></a> 
+</div>
+  <!-- bitbucket -->
+  <a href="https://bitbucket.org/geomastrodev-admin/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=bitbucket&logoColor=white" target="_blank"></a> 
+</div>
 </div>
 
 <hr />
 <!-- skills -->
-<h2 align="center">🔥 Languages-Frameworks-Tools 🔥</h2>
+<h2 align="center"><img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/50e5aeed-7975-4280-bc26-f663686dacf3" />
+ Skillset & Tools <img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/32db5666-5946-4556-80da-0f98e4605c3d" />
+</h2>
 <br />
 <p align="center">
   <a href="https://skillicons.dev">
       <!-- first row -->
-      <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nextjs%2Creact%2Cgit%2Chtml%2Ccss%2Cjavascript%2Cts%2Ctailwind%2Cfigma%2Cthreejs&theme=dark" />
-<source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://skillicons.dev/icons?i=nextjs%2Creact%2Cgit%2Chtml%2Ccss%2Cjavascript%2Cts%2Ctailwind%2Cfigma%2Cthreejs&theme=light" />
-          <img src="https://skillicons.dev/icons?i=nextjs%2Creact%2Cgit%2Chtml%2Ccss%2Cjavascript%2Cts%2Ctailwind%2Cfigma%2Cthreejs&theme=light" alt="skills - 1" />
-        </picture>
+     <picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://skillicons.dev/icons?i=react%2Cgit%2Chtml%2Ccss%2Cjavascript%2Cts%2Ctailwind%2Cc%2Cjava%2Cpython%2Clinux&theme=dark" />
+  <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    srcset="https://skillicons.dev/icons?i=react%2Cgit%2Chtml%2Ccss%2Cjavascript%2Cts%2Ctailwind%2Cc%2Cjava%2Cpython%2Clinux&theme=light" />
+  <img src="https://skillicons.dev/icons?i=react%2Cgit%2Chtml%2Ccss%2Cjavascript%2Cts%2Ctailwind%2Cc%2Cjava%2Cpython%2Clinux&theme=light" alt="skills - 1" />
+</picture>
           <br />
           <!-- second row -->
           <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nodejs%2Cexpress%2Cmongodb%2Cmysql%2Cpostgres%2Credux%2Cprisma%2Cfirebase%2Csupabase&theme=dark" />
-            <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://skillicons.dev/icons?i=nodejs%2Cexpress%2Cmongodb%2Cmysql%2Cpostgres%2Credux%2Cprisma%2Cfirebase%2Csupabase&theme=light" />
-            <img src="https://skillicons.dev/icons?i=nodejs%2Cexpress%2Cmongodb%2Cmysql%2Cpostgres%2Credux%2Cprisma%2Cfirebase%2Csupabase&theme=light" alt="skills - 2" />
+            <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nodejs%2Csqlite%2Cmysql&theme=dark" />
+            <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://skillicons.dev/icons?i=nodejs%2Csqlite%2Cmysql&theme=light" />
+            <img src="https://skillicons.dev/icons?i=nodejs%sqlite%2Cmysql%2Cmysql&theme=light" alt="skills - 2" />
         </picture>
 
   </a>
@@ -59,7 +67,7 @@
 <br />
 
 <!-- deployment -->
-<h3 align="center">Deployment</h3>
+<h3 align="center"> Deployment History</h3>
 <p align="center">
   <a href="https://skillicons.dev">
       <picture>
