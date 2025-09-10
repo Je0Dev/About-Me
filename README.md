@@ -137,9 +137,9 @@
   <!-- repo 1 -->
   <a align="right" href="https://github.com/Je0Dev/imdb_clone" title="Imdb JavaFx Clone">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Je0Dev&repo=imdb-clone&theme=react&border_color=61dafb&border_radius=10.0" />
-      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Je0Dev&repo=imdb-clone&theme=graywhite&border_radius=10.0" />
-      <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Je0Dev&repo=imdb-clone&theme=graywhite&border_radius=10.0" alt="mastro's repository stats - Imdb Java Fx Clone" />
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Je0Dev&repo=imdb_clone&theme=react&border_color=61dafb&border_radius=10.0" />
+      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=Je0Dev&repo=imdb_clone&theme=graywhite&border_radius=10.0" />
+      <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Je0Dev&repo=imdb-clone&theme=graywhite&border_radius=10.0" alt="mastro's repository stats - Imdb JavaFx Clone" />
     </picture>
   </a>
 
