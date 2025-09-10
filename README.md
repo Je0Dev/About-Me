@@ -42,10 +42,10 @@
       <!-- first row -->
      <picture>
   <source media="(prefers-color-scheme: dark)"
-    srcset="https://skillicons.dev/icons?i=react%2Cgit%2Chtml%2Ccss%2Cjavascript%2Cts%2Ctailwind%2Cc%2Cjava%2Cpython%2Clinux&theme=dark" />
+    srcset="https://skillicons.dev/icons?i=react%2Cgit%2Chtml%2Ccss%2Cjavascript%2Cc%2Cjava%2Cpython%2Clinux&theme=dark" />
   <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    srcset="https://skillicons.dev/icons?i=react%2Cgit%2Chtml%2Ccss%2Cjavascript%2Cts%2Ctailwind%2Cc%2Cjava%2Cpython%2Clinux&theme=light" />
-  <img src="https://skillicons.dev/icons?i=react%2Cgit%2Chtml%2Ccss%2Cjavascript%2Cts%2Ctailwind%2Cc%2Cjava%2Cpython%2Clinux&theme=light" alt="skills - 1" />
+    srcset="https://skillicons.dev/icons?i=react%2Cgit%2Chtml%2Ccss%2Cjavascript%2Cc%2Cjava%2Cpython%2Clinux&theme=light" />
+  <img src="https://skillicons.dev/icons?i=react%2Cgit%2Chtml%2Ccss%2Cjavascript%2Cc%2Cjava%2Cpython%2Clinux&theme=light" alt="skills - 1" />
 </picture>
           <br />
           <!-- second row -->
