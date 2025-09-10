@@ -1,10 +1,10 @@
 <!-- profile view count -->
-<img align="right" src="https://komarev.com/ghpvc/?username=sanidhyy">
+<img align="right" src="https://komarev.com/ghpvc/?username=Je0Dev">
 
 <!-- introduction -->
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;+Myself+Sanidhya!;&center=true&font=Righteous&size=35">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello!+👋;+Myself+Mastro!;&center=true&font=Righteous&size=35">
   </a>
 </h1>
 
@@ -23,19 +23,12 @@
 </p>
 
 <!-- social handles -->
-<div align="center"> 
-  <!-- twitter -->
-  <a href="https://x.com/geomasdev_biz" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" target="_blank"></a> 
-  <!-- gmail -->
-  <a href="mailto:geomastrobiz@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <!-- linkedin -->
-  <a href="https://www.linkedin.com/in/georgemastrobiz/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-    <!-- gitlab -->
-  <a href="https://gitlab.com/geomastrodev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=gitlab&logoColor=white" target="_blank"></a> 
-</div>
-  <!-- bitbucket -->
-  <a href="https://bitbucket.org/geomastrodev-admin/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=bitbucket&logoColor=white" target="_blank"></a> 
-</div>
+<div align="center">
+  <a href="https://x.com/geomasdev_biz" target="_blank"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" target="_blank"></a>
+  <a href="mailto:geomastrobiz@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/georgemastrobiz/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://gitlab.com/geomastrodev/" target="_blank"><img src="https://img.shields.io/badge/-GitLab-%23FCA326?style=for-the-badge&logo=gitlab&logoColor=white" target="_blank"></a>
+  <a href="https://bitbucket.org/geomastrodev-admin/" target="_blank"><img src="https://img.shields.io/badge/-Bitbucket-%230052CC?style=for-the-badge&logo=bitbucket&logoColor=white" target="_blank"></a>
 </div>
 
 <hr />
